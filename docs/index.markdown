@@ -76,6 +76,7 @@ layout: default
 <li><a href="https://cryptosj.net/namadaservice.html">Cryptosj Service</a> Node operation instructions, services, seed node, RPC, daily snapshot</li>
 <li><a href="https://github.com/vknowable/stack-orchestrator">Stack Orchestrator</a> Cool tool for Namada node's automation deployment, <a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">example here</a></li>
 <li><a href="https://github.com/systemd-run/manuals/tree/main/namada">Namada node installation</a> Instructions for node installation, script for grafana installation</li>
+<li><a href="https://github.com/0x4r45h/namada-selfhost">Namada Self Host</a> Docker Compose to launch your own Namada blockchain on PC/Laptop</li>  
 </ul>
 
 <h3 id="ledger-projects">Ledger Nano Projects</h3>
